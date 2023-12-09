@@ -29,6 +29,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
+
+###
 </div>
 
 ###
@@ -46,7 +49,5 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=garpra27&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
